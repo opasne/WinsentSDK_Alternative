@@ -1,0 +1,10 @@
+C:\123\myNetSend\myNetSend\bin\Debug\myNetSend.exe.config
+C:\123\myNetSend\myNetSend\bin\Debug\myNetSend.exe
+C:\123\myNetSend\myNetSend\bin\Debug\myNetSend.pdb
+C:\123\myNetSend\myNetSend\obj\Debug\myNetSend.Form1.resources
+C:\123\myNetSend\myNetSend\obj\Debug\myNetSend.Properties.Resources.resources
+C:\123\myNetSend\myNetSend\obj\Debug\myNetSend.csproj.GenerateResource.cache
+C:\123\myNetSend\myNetSend\obj\Debug\myNetSend.csproj.CoreCompileInputs.cache
+C:\123\myNetSend\myNetSend\obj\Debug\myNetSend.exe
+C:\123\myNetSend\myNetSend\obj\Debug\myNetSend.pdb
+C:\123\myNetSend\myNetSend\obj\Debug\myNetSend.csprojAssemblyReference.cache
